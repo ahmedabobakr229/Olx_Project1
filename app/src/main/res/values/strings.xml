@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Olx_Project</string>
+    <string name="facebook_app_id">333271610585745</string>
+    <string name="fb_login_protocol_scheme">fb333271610585745</string>
+</resources>
